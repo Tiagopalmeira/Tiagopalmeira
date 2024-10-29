@@ -27,8 +27,6 @@ Aqui estão alguns dos projetos dos quais tenho mais orgulho:
 ### [Loja Militar](https://github.com/Tiagopalmeira/loja-militar)
 Desenvolvimento de um site para uma loja com temática militar, criado em React com uma arquitetura de frontend moderna. Inclui integração de APIs e design responsivo.
 
-### [Bot de Automação com Python](https://github.com/Tiagopalmeira/bot-automacao-python)
-Um bot em Python que automatiza tarefas, incluindo a filtragem e atualização de dados em planilhas. Esse projeto me permitiu explorar automação e manipulação de dados.
 
 ---
 
