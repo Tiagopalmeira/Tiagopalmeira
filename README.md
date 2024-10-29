@@ -22,11 +22,18 @@ Sou apaixonado por tecnologia e inovação, sempre em busca de aprender e aprimo
 
 ## 🚀 Projetos em Destaque
 
-Aqui estão alguns dos projetos dos quais tenho mais orgulho:
+### [TestedeSistemas_esteticaPlus](https://github.com/Tiagopalmeira/TestedeSistemas_esteticaPlus)
+Projeto de testes automatizados para um sistema de agendamento em uma clínica de estética. Utiliza JavaScript com Jest e integração com banco de dados MySQL.
 
-### [Loja Militar](https://github.com/Tiagopalmeira/loja-militar)
-Desenvolvimento de um site para uma loja com temática militar, criado em React com uma arquitetura de frontend moderna. Inclui integração de APIs e design responsivo.
+### [lojamiltar](https://github.com/Tiagopalmeira/lojamiltar)
+Desenvolvimento de um site com temática militar, usando React e CSS. Este projeto foca em criar uma experiência de usuário intuitiva e responsiva.
 
+### [SGU_FULL](https://github.com/Tiagopalmeira/SGU_FULL)
+Sistema de Gestão de Usuários com funcionalidades completas de CRUD, utilizando JavaScript. Ideal para gerenciar informações de usuários de forma prática e segura.
+
+---
+
+Esses links irão direcionar os visitantes diretamente para os seus projetos públicos. Adicionar uma breve descrição para cada projeto ajuda a destacar o que cada um deles oferece e quais tecnologias foram utilizadas.
 
 ---
 
