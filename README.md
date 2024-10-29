@@ -31,9 +31,6 @@ Desenvolvimento de um site com temática militar, usando React e CSS. Este proje
 ### [SGU_FULL](https://github.com/Tiagopalmeira/SGU_FULL)
 Sistema de Gestão de Usuários com funcionalidades completas de CRUD, utilizando JavaScript. Ideal para gerenciar informações de usuários de forma prática e segura.
 
----
-
-Esses links irão direcionar os visitantes diretamente para os seus projetos públicos. Adicionar uma breve descrição para cada projeto ajuda a destacar o que cada um deles oferece e quais tecnologias foram utilizadas.
 
 ---
 
