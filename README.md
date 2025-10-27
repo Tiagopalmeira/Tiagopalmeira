@@ -4,7 +4,7 @@
 
 ---
 <p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExanp0ejRheTE3MGJsbjRxem4zZTF2bmQxbHluMmJnZTVvMXhpZGV6OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rRje0j8001edBi14W3/giphy.gif" width="350" alt="Funny Anime GIF"/>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzBuMXhkdGJlN3V2NGR1cjZ6MXB4anY0bHN0YnhkZ29zbjdpcGJ5diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LLvqxmK3gOXLy/giphy.gif" width="350" alt="Funny Anime GIF"/>
 </p>
 ---
 
