@@ -64,44 +64,6 @@ No meu GitHub você encontra projetos que refletem meu interesse por **desenvolv
 
 ---
 
-## 🚀 Projetos em Destaque
-
-### 🧪 [TestedeSistemas_esteticaPlus](https://github.com/Tiagopalmeira/TestedeSistemas_esteticaPlus)
-Projeto de testes automatizados para um sistema de agendamento em uma clínica de estética.  
-🔹 **Tecnologias:** JavaScript, Jest, MySQL  
-
-### 🪖 [lojamiltar](https://github.com/Tiagopalmeira/lojamiltar)
-Desenvolvimento de site com temática militar usando React e CSS.  
-🔹 **Foco:** UX responsivo e moderno  
-
-### 👥 [SGU_FULL](https://github.com/Tiagopalmeira/SGU_FULL)
-Sistema completo de Gestão de Usuários (CRUD).  
-🔹 **Tecnologias:** JavaScript, Node.js, MySQL  
-
----
-
-## 🎮 Gamificação & Interações
-
-### 🌟 Visitantes
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Tiagopalmeira&color=blue" alt="Contador de visitas"/>
-</p>
-
-### 🔥 Skills Progress Bar
-<p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-90%25-yellow?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/TypeScript-85%25-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/React-80%25-61DAFB?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Node.js-75%25-339933?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Python-70%25-3776AB?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/C-65%25-A8B9CC?style=for-the-badge"/>
-</p>
-
-### 🐱 GIF Animado de Anime
-<p align="center">
-  <img src="https://media.giphy.com/media/JWuBH9rCO2uZuHBFpm/giphy.gif" width="350" alt="Anime GIF"/>
-</p>
-
 ### 💬 Quotes Rotativas
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&quotes=5" alt="Random Quotes"/>
@@ -127,7 +89,9 @@ Sistema completo de Gestão de Usuários (CRUD).
 
 ## ✨ Frase que me inspira
 
+
 > 💬 *“O código é uma forma de arte que transforma lógica em magia.”* ✨  
+
 
 <p align="center">
   <b>Feito com ❤️ por Tiago Palmeira</b><br/>
