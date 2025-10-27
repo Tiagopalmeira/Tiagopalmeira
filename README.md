@@ -1,4 +1,3 @@
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Olá!+Eu+sou+o+Tiago+Palmeira!;Fullstack+Dev+e+apaixonado+por+código;Explorando+Machine+Learning+e+IA;Bem-vindo+ao+meu+GitHub!+🚀" alt="Typing SVG" />
 </p>
