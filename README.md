@@ -60,7 +60,6 @@ No meu GitHub você encontra projetos que refletem meu interesse por **desenvolv
 
 ---
 
-### 💬 Quotes Rotativas
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&quotes=5" alt="Random Quotes"/>
 </p>
