@@ -51,15 +51,11 @@ No meu GitHub você encontra projetos que refletem meu interesse por **desenvolv
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Tiagopalmeira&show_icons=true&theme=radical&count_private=true" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tiagopalmeira&theme=radical" height="150"/>
+  
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tiagopalmeira&layout=compact&theme=radical" alt="Top Langs" height="150"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Tiagopalmeira&theme=radical&margin-w=8&margin-h=8no-frame=true" alt="GitHub Trophies"/>
 </p>
 
 ---
