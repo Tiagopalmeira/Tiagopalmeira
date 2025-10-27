@@ -1,47 +1,136 @@
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Olá!+Eu+sou+o+Tiago+Palmeira!;Fullstack+Dev+e+apaixonado+por+código;Explorando+Machine+Learning+e+IA;Bem-vindo+ao+meu+GitHub!+🚀" alt="Typing SVG" />
+</p>
+
+---
+
 # 👋 Olá! Eu sou o Tiago Palmeira!
 
-Sou apaixonado por tecnologia e inovação, sempre em busca de aprender e aprimorar minhas habilidades. 🚀 Atuo na área de desenvolvimento e também estou explorando o mundo do aprendizado de máquina e inteligência artificial. No meu perfil GitHub, você encontrará projetos que refletem meu interesse por desenvolvimento web e soluções criativas para problemas reais.
+Sou apaixonado por **tecnologia**, **inovação** e **código limpo**. 🚀  
+Atuo na área de **desenvolvimento fullstack**, explorando **front-end em TSX**, **back-end**, **segurança** e o universo de **Machine Learning/IA**.  
+
+No meu GitHub você encontra projetos que refletem meu interesse por **desenvolvimento web**, **testes automatizados**, **automação** e **soluções criativas** para problemas reais. 💡
 
 ---
 
-## 💻 Tecnologias e Ferramentas
+## 💻 Tecnologias e Ferramentas que domino
 
-- **Frontend**: React, HTML, CSS, JavaScript
-- **Backend**: Node.js, Express
-- **Banco de Dados**: MySQL, PostGress
-- **Ferramentas de Teste**: Jest, CUnit
-- **Outros**: Python para scripts e automação, Git para controle de versão
+### 🧠 Linguagens & Frameworks
+![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=fff)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=fff)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=fff)
+![TSX](https://img.shields.io/badge/-TSX-3178C6?logo=react&logoColor=fff)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=fff)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwindcss&logoColor=fff)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=fff)
+
+### 🗄️ Banco de Dados
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=fff)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=fff)
+
+### 🧪 Testes & Boas Práticas
+![Jest](https://img.shields.io/badge/-Jest-C21325?logo=jest&logoColor=fff)
+![CUnit](https://img.shields.io/badge/-CUnit-555555?logo=c&logoColor=fff)
+![Security](https://img.shields.io/badge/-Segurança-2E8B57?logo=shield&logoColor=fff)
+
+### 🛠️ Ferramentas & Ambiente
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github)
+![VSCode](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=fff)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=fff)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=000)
+![Terminal](https://img.shields.io/badge/-Terminal-4D4D4D?logo=gnu-bash&logoColor=fff)
 
 ---
 
-## 📈 Minhas Estatísticas no GitHub
+## 📊 Estatísticas do GitHub
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tiagopalmeira&layout=compact&langs_count=8&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Tiagopalmeira&show_icons=true&theme=radical&count_private=true" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tiagopalmeira&theme=radical" height="150"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tiagopalmeira&layout=compact&theme=radical" alt="Top Langs" height="150"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Tiagopalmeira&theme=radical&margin-w=8&margin-h=8&no-frame=true" alt="GitHub Trophies"/>
+</p>
 
 ---
 
 ## 🚀 Projetos em Destaque
 
-### [TestedeSistemas_esteticaPlus](https://github.com/Tiagopalmeira/TestedeSistemas_esteticaPlus)
-Projeto de testes automatizados para um sistema de agendamento em uma clínica de estética. Utiliza JavaScript com Jest e integração com banco de dados MySQL.
+### 🧪 [TestedeSistemas_esteticaPlus](https://github.com/Tiagopalmeira/TestedeSistemas_esteticaPlus)
+Projeto de testes automatizados para um sistema de agendamento em uma clínica de estética.  
+🔹 **Tecnologias:** JavaScript, Jest, MySQL  
 
-### [lojamiltar](https://github.com/Tiagopalmeira/lojamiltar)
-Desenvolvimento de um site com temática militar, usando React e CSS. Este projeto foca em criar uma experiência de usuário intuitiva e responsiva.
+### 🪖 [lojamiltar](https://github.com/Tiagopalmeira/lojamiltar)
+Desenvolvimento de site com temática militar usando React e CSS.  
+🔹 **Foco:** UX responsivo e moderno  
 
-### [SGU_FULL](https://github.com/Tiagopalmeira/SGU_FULL)
-Sistema de Gestão de Usuários com funcionalidades completas de CRUD, utilizando JavaScript. Ideal para gerenciar informações de usuários de forma prática e segura.
+### 👥 [SGU_FULL](https://github.com/Tiagopalmeira/SGU_FULL)
+Sistema completo de Gestão de Usuários (CRUD).  
+🔹 **Tecnologias:** JavaScript, Node.js, MySQL  
 
+---
+
+## 🎮 Gamificação & Interações
+
+### 🌟 Visitantes
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Tiagopalmeira&color=blue" alt="Contador de visitas"/>
+</p>
+
+### 🔥 Skills Progress Bar
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-90%25-yellow?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/TypeScript-85%25-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/React-80%25-61DAFB?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Node.js-75%25-339933?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Python-70%25-3776AB?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/C-65%25-A8B9CC?style=for-the-badge"/>
+</p>
+
+### 🐱 GIF Animado de Anime
+<p align="center">
+  <img src="https://media.giphy.com/media/JWuBH9rCO2uZuHBFpm/giphy.gif" width="350" alt="Anime GIF"/>
+</p>
+
+### 💬 Quotes Rotativas
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&quotes=5" alt="Random Quotes"/>
+</p>
 
 ---
 
 ## 📬 Vamos Conectar!
 
-Se você quiser bater um papo ou conferir mais do meu trabalho, me acompanhe nas redes sociais:
-
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100031440456497)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/Tiago.palmeira_7)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/tiago-palmeira123)
+<p align="center">
+  <a href="https://www.facebook.com/profile.php?id=100031440456497">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+  </a>
+  <a href="https://instagram.com/Tiago.palmeira_7">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://br.linkedin.com/in/tiago-palmeira123">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-Curioso e sempre pronto para novos desafios. Vamos construir algo incrível juntos!
+## ✨ Frase que me inspira
+
+> 💬 *“O código é uma forma de arte que transforma lógica em magia.”* ✨  
+
+<p align="center">
+  <b>Feito com ❤️ por Tiago Palmeira</b><br/>
+  <i>Curioso e sempre pronto para novos desafios.</i> 🚀
+</p>
