@@ -59,7 +59,7 @@ No meu GitHub você encontra projetos que refletem meu interesse por **desenvolv
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Tiagopalmeira&theme=radical&margin-w=8&margin-h=8&no-frame=true" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Tiagopalmeira&theme=radical&margin-w=8&margin-h=8no-frame=true" alt="GitHub Trophies"/>
 </p>
 
 ---
