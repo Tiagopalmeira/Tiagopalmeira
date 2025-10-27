@@ -3,6 +3,10 @@
 </p>
 
 ---
+<p align="center">
+  <img src="https://media.giphy.com/media/4N5vB4aErlVtVsywBw/giphy.gif" width="350" alt="Funny Anime GIF"/>
+</p>
+---
 
 # 👋 Olá! Eu sou o Tiago Palmeira!
 
