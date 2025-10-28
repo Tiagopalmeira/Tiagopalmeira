@@ -10,7 +10,7 @@
 
 # 👋 Olá! Eu sou o Tiago Palmeira!
 
-Sou apaixonado por **tecnologia**, **inovação** e **código limpo**. 🚀  
+Sou apaixonado por **tecnologia**, **inovação**, **código limpo** e... Souls like. 🚀  
 Atuo na área de **desenvolvimento fullstack**, explorando **front-end em TSX**, **back-end**, **segurança** e o universo de **Machine Learning/IA**.  
 
 No meu GitHub você encontra projetos que refletem meu interesse por **desenvolvimento web**, **testes automatizados**, **automação** e **soluções criativas** para problemas reais. 💡
